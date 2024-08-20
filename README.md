@@ -1,4 +1,4 @@
-# PRODIGY_CS_04
+# Keylogger
 Simple Keylogger
 
 This is used to monitor and record each key stroke of your keyboard and store it to a text file called "<your_device_name>_KEYLOG.txt".
